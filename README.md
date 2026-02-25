@@ -13,11 +13,10 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Go+Beginner;C+%26+C%2B%2B+Beginner;Future+Software+Engineer;Building+Projects+Everyday&center=true&width=750&size=24&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Go+Beginner;Future+Software+Engineer;Building+Projects+Everyday&center=true&width=750&size=24&pause=1000" />
 </p>
 
 ---
-
 
 <p align="center">
   <i><b>"Code is like humor. When you have to explain it, it’s bad." – Cory House</b></i>
@@ -60,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muien5080&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muien5080&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muien5080&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muien5080&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -69,7 +68,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muien5080&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=muien5080&theme=tokyonight" />
 </p>
 
 ---
@@ -77,7 +76,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muien5080&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=muien5080&theme=flat&column=6" />
 </p>
 
 ---
@@ -85,15 +84,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muien5080&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake (Enable via GitHub Action)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/muien5080/muien5080/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muien5080&theme=tokyo-night" />
 </p>
 
 ---
