@@ -73,15 +73,6 @@
 
 ---
 
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muien5080&theme=flat" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
