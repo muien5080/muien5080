@@ -1,101 +1,90 @@
-<!-- ======================== TOP RIGHT PROFILE VIEWS ======================== -->
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=muien5080&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
-<!-- ======================== HEADER ======================== -->
-
-<h1 align="center">Hi 👋, I'm Mohammed Muien</h1>
-
-<h3 align="center">
-  🚀 Python Developer | 🎓 1st Year Student | 📍 Bangalore, India
-</h3>
+<h1 align="center">Mohammed Muien</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Go+Beginner;Future+Software+Engineer;Building+Projects+Everyday&center=true&width=750&size=24&pause=1000" />
+Python Developer • Machine Learning Learner • Scientific Computing
 </p>
 
----
+<hr>
 
-<p align="center">
-  <i><b>"Code is like humor. When you have to explain it, it’s bad." – Cory House</b></i>
+<h2>About Me</h2>
+
+<ul>
+<li>B.Sc Mathematics student at <b>Sindhi College, Bengaluru City University</b></li>
+<li>Started learning Python in 2024</li>
+<li>Interested in machine learning, scientific computing, and simulation</li>
+<li>Currently studying PyTorch and numerical modeling</li>
+<li>Location: Bangalore, India</li>
+</ul>
+
+<hr>
+
+<h2>Current Focus</h2>
+
+<ul>
+<li>Machine Learning with PyTorch</li>
+<li>Scientific computing with Python</li>
+<li>Simulation and modeling</li>
+<li>Open source contribution</li>
+</ul>
+
+<hr>
+
+<h2>Highlighted Projects</h2>
+
+<h3>SIRA Screening – Epidemic Simulation + Machine Learning</h3>
+
+<p>
+Implementation of a stochastic epidemic simulation using the SIR model and the Gillespie algorithm.
+A neural network is trained to approximate epidemic trajectories from simulation data.
 </p>
 
----
-
-<img align="right" width="400" src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif" />
-
-### 🧑‍💻 About Me
-
-- 🎓 1st Year Engineering Student from **Bangalore, India**
-- 🐍 Python (Intermediate)
-- 🌱 Currently learning **Go**
-- 🎯 Goal: Become a Professional Software Developer
-- 🚧 Portfolio: Coming Soon
-- 📫 Email: **muien5080@gmail.com**
-- ⚡ Fun Fact: I turn ☕ into clean Python code
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,git,github,vscode" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-- 💰 **Expense Tracker** – Manage daily expenses efficiently  
-- ✊ **Rock Paper Scissors Game** – Python terminal-based game  
-- 🤖 **Rule-Based Chatbot** – Logical response chatbot  
-- 🎯 **The Perfect Guess** – Number guessing game  
-- 📝 **Text Editor** – Python file-handling based editor  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muien5080&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=muien5080&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=muien5080&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muien5080&theme=tokyo-night" />
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<div align="center">
-
-<a href="mailto:muien5080@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+Repository:<br>
+<a href="https://github.com/muien5080/SIRA-Screening">
+github.com/muien5080/SIRA-Screening
 </a>
+</p>
 
-<a href="https://github.com/muien5080">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<h3>Simple Python Projects</h3>
+
+<p>
+
+</p>
+
+<p>
+Repository<br>
+<a href="https://github.com/muien5080/Python-Projects">
+Python-Projects
 </a>
+</p>
 
-</div>
+<hr>
 
----
+<h2>Skills</h2>
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
-<h4 align="center">Let's build something amazing together 🚀</h4>
+<ul>
+<li>Python</li>
+<li>NumPy</li>
+<li>SciPy</li>
+<li>PyTorch</li>
+<li>Pandas</li>
+<li>SymPy</li>
+<li>Git / GitHub</li>
+</ul>
+
+<hr>
+
+<h2>Achievements</h2>
+
+<ul>
+<li>1st Prize – Coding and Debugging Competition, Sindhi College (February 2026)</li>
+</ul>
+
+<hr>
+
+<h2>Contact</h2>
+
+<p>
+Email: <a href="mailto:muien5080@gmail.com">muien5080@gmail.com</a><br>
+GitHub: <a href="https://github.com/muien5080">github.com/muien5080</a>
+</p>
